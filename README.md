@@ -19,3 +19,8 @@ In this Crisiliun update the following things have changed:
 
 ## Erros/Bugs
 You who are seeing this, have you found a bug?, if the answer to that question is yes, You can report it by creating an issue or reporting it on the support server, you can find the link [here](https://discord.gg/KjPq39Pyty)
+
+## Credits
+- **Translators:** Exedust#4943
+- **Template:** [DashCruft](https://github.com/DashCruft)
+- **You:** Thanks for everything
