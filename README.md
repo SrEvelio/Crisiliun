@@ -10,7 +10,7 @@ It is a powerful bot which supports several music providers in which they can be
 - Http
 
 ## Erros/Bugs
-You who are seeing this, have you found a bug?, if the answer to that question is yes, You can report it by creating an issue or reporting it on the support server, you can find the link [![here](https://discordapp.com/api/guilds/800898404073996318/embed.png)]("https://discord.gg/KjPq39Pyty")
+You who are seeing this, have you found a bug?, if the answer to that question is yes, You can report it by creating an issue or reporting it on the support server, you can find the link [here](https://discord.gg/KjPq39Pyty)
 
 ## Changelog
 In this Crisiliun update the following things have changed:
