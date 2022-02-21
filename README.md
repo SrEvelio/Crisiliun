@@ -9,12 +9,12 @@ It is a powerful bot which supports several music providers in which they can be
 - Facebook
 - Http
 
-## Changelog
+## Changelog (v3.1.0)
 In this Crisiliun update the following things have changed:
 - Improved stability
 - Bug fixes
-- New services have been added (AppleMusic, Facebook, Deezer)
-- Library changes
+- SlashCommands Added
+- Pause/resume System in voicechannel join/leave
 - Among others
 
 ## Erros/Bugs
